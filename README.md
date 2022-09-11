@@ -1,4 +1,4 @@
-![image](1.jpeg)
+![image](https://info.algorithmia.com/hs-fs/hubfs/Imported_Blog_Media/git-support-algorithm-development-1.jpg?width=1200&height=630&name=git-support-algorithm-development-1.jpg)
 # Работа с Git
 
 ## 1. Проверка наличия установленного Git
